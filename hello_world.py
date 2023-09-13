@@ -13,3 +13,5 @@ def print_KIT():
 if __name__ == '__main__’:
     print_KIT()
     print_hello()
+
+print("기존 내용 변경 및 삭제2")
